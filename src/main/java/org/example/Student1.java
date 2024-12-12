@@ -5,6 +5,7 @@ public class Student1 {
     private String age;
 
     private String email;
+    private String phoneNumber;
 
     public String getName() {
         return name;
